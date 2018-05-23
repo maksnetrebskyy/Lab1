@@ -1,1 +1,1 @@
-# Laba1
+# OSLaba1
