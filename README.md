@@ -1,3 +1,3 @@
 # OSLaba1
-![](OSLaba1(1))
-![](OSLaba1(2))
+![](OSLaba1(1).png)
+![](OSLaba1(2).png)
